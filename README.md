@@ -1,3 +1,5 @@
+自动更新桌面程序
+
 # SharpUpdater
 A windows application automatic update solution,includes updater clients,update pack repository,CLI and VSIX packaging tool.
 
